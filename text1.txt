@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6677-A45F
+
+ Directory of C:\Users\Mmala\Desktop\My Project
+
+06/30/2020  08:47 PM    <DIR>          .
+06/30/2020  08:47 PM    <DIR>          ..
+06/30/2020  08:47 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  187,301,318,656 bytes free
